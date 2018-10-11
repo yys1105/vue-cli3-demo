@@ -1,0 +1,58 @@
+[{
+    "name": "账户资金",
+    "ename": "funds",
+    "lv": 1,
+    "icon": "",
+    "url": "/funds",
+    "active": false
+}, {
+    "name": "会员管理",
+    "ename": "member",
+    "lv": 1,
+    "icon": "",
+    "url": "/member",
+    "active": false
+}, {
+    "name": "商品管理",
+    "ename": "product",
+    "lv": 1,
+    "icon": "",
+    "url": "/product",
+    "active": false,
+    "subMenus": [{
+        "name": "商品价格设置",
+        "ename": "price",
+        "lv": 2,
+        "icon": "",
+        "url": "/product/price",
+        "active": false
+    }, {
+        "name": "商品销售设置",
+        "ename": "sales",
+        "lv": 2,
+        "icon": "",
+        "url": "/product/sales",
+        "active": false
+    }, {
+        "name": "商品类型设置",
+        "ename": "type",
+        "lv": 2,
+        "icon": "",
+        "url": "/product/type",
+        "active": false
+    }]
+}, {
+    "name": "订单管理",
+    "ename": "orders",
+    "lv": 1,
+    "icon": "",
+    "url": "/orders",
+    "active": false
+}, {
+    "name": "报表管理",
+    "ename": "reports",
+    "lv": 1,
+    "icon": "",
+    "url": "/reports",
+    "active": false
+}]
